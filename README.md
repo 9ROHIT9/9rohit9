@@ -1,16 +1,65 @@
-## Hi there 👋
+# Rohit kumar
 
-<!--
-**9ROHIT9/9rohit9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Rohit kumar, a passionate cybersecurity enthusiast with a strong proficiency in Python, C++, Kali Linux, and Ubuntu.
+My goal is to leverage my skills to contribute to the field of cybersecurity and help in building a safer digital world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Programming Languages**: 
+  - Python
+  - C++
+  - HTML
+  - CSS
+  - js
+  - Data Structures in C++
+    
+- **Operating Systems**:
+  - Kali Linux
+  - Ubuntu
+  - Windows
+  - parrot
+ 
+- **Soft Skills**:
+  - Communication Skills (learned by Touchstone)
+  - Problem Solving Skills (Design Thinking)
+  - PMSE (collage)
+
+## 🌟 Projects
+### 1. Youtube Comment Spam Detection 
+   - **Role**: Developer, Tester, Vulnerability Finder, and Solver
+   - **Description**: Contributed in developing the frontend of the extension and worked as a tester and vulnerability finder.
+   - **Tech Stack**: Python, HTML, CSS,js, Linux Tools, Cisco Packet Tracer,burpsuite etc.
+
+## 🔧 Tools & Technologies
+
+- **IDEs & Editors**:
+  - Visual Studio Code
+  - PyCharm
+  - Sublime Text
+  - collab
+  
+- **Version Control**:
+  - Git
+  - GitHub
+  
+- **Other Tools**:
+  - Wireshark
+  - Metasploit
+  - Burp Suite
+  - Cisco Packet Tracer
+  - namp
+  - curl
+  - amass,gobuster,httpx
+
+## 📫 How to reach me
+
+- **Email**: rohitkumarchand.79@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/rohit-kumar-3b4830309 ](#)
+
+## 📈 GitHub Stats
+
+![Rohit kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=9rohit9&show_icons=true&theme=radical)
+
+Feel free to explore my repositories and get in touch if you have any questions or collaborations in mind!

@@ -2,7 +2,7 @@
 
 **Cybersecurity Enthusiast**
 
-Welcome to my GitHub profile! I'm Rohit kumar, a passionate cybersecurity enthusiast with a strong proficiency in Python, C++, Kali Linux, and Ubuntu.
+Welcome to my GitHub profile! I'm Rohit kumar, a passionate cybersecurity enthusiast with a strong proficiency in Python, Kali Linux, and Ubuntu.
 My goal is to leverage my skills to contribute to the field of cybersecurity and help in building a safer digital world.
 
 ## 🚀 Skills
